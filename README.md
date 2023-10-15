@@ -4,4 +4,4 @@
 
 +, -, /, * supported 
 
-todo: more numbers, support for ()
+todo: more numbers, support for (),^
